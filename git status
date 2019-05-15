@@ -1,0 +1,37 @@
+[33mcommit c6f790000a872fa145b9e92455b66f12f5bf2ef8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: root <root@ip-172-31-45-128.us-east-2.compute.internal>
+Date:   Wed May 15 03:05:33 2019 +0000
+
+    tesco
+
+[33mcommit 7ccecbe3e9c153d7b661d8cfab7ac542f34a1b8f[m
+Author: root <root@ip-172-31-45-128.us-east-2.compute.internal>
+Date:   Tue May 14 08:27:15 2019 +0000
+
+    git new sample file
+
+[33mcommit b7961227cc20ef540318c98924a8b8eb83f39d2e[m
+Author: root <root@ip-172-31-45-128.us-east-2.compute.internal>
+Date:   Tue May 14 08:13:09 2019 +0000
+
+    Revert "modify jishar"
+    
+    This reverts commit e554b199d2d99e1eba93159cb251cf1f14f5450c.
+
+[33mcommit e554b199d2d99e1eba93159cb251cf1f14f5450c[m
+Author: root <root@ip-172-31-45-128.us-east-2.compute.internal>
+Date:   Tue May 14 08:04:09 2019 +0000
+
+    modify jishar
+
+[33mcommit dc71c469790416d64fc0c63d8b5458d72aa79a96[m
+Author: root <root@ip-172-31-45-128.us-east-2.compute.internal>
+Date:   Tue May 14 07:51:59 2019 +0000
+
+    to sample files
+
+[33mcommit 6524496fbc0a7279dbda65ee4675a814a1699cb6[m
+Author: root <root@ip-172-31-45-128.us-east-2.compute.internal>
+Date:   Mon May 13 08:06:09 2019 +0000
+
+    created some test files
